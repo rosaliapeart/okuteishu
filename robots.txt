@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eurohxeek.meetingcostcalculator.ca/sitemap.xml
